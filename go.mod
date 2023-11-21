@@ -1,4 +1,4 @@
-module github.com/moov-io/signedxml
+module github.com/brixcrusher/signedxml
 
 go 1.20
 
